@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center">
-    <h3 align="center"> 3D animation with Three.js</h3>
+    <h3 align="center"> Particles Animation with ThreeJS</h3>
 </p>
 
 ### Get Started Setup
